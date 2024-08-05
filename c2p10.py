@@ -1,4 +1,6 @@
-import numpy as np;
+import numpy as np
+print("SJC23MCA-2027: FIDHA FATHIMA")
+print("Batch : MCA 2023-25")
 matrix_size = 3
 matrix = np.random.randint(10,20, size=(matrix_size, matrix_size))
 print("Original Matrix:")
