@@ -1,5 +1,5 @@
-print("SJC22MCA-2007 : ANJALA MICHAEL")
-print("Batch : MCA 2022-24")
+print("SJC22MCA-2027 : FIDHA FATHIMA")
+print("Batch : MCA 2023-25")
 import numpy as np
 # Create a 1D array
 array_1d = np.array([1, 2, 3, 4, 5])
