@@ -1,5 +1,7 @@
 import numpy as np
 # Create an uninitialized array
+print("SJC23MCA-2027 : FIDHA FATHIMA")
+print("Batch : MCA 2023-25")
 uninitialized_array = np.empty(shape=(2, 3))
 print("Uninitialized Array:")
 print(uninitialized_array)
